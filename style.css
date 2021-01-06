@@ -1,0 +1,46 @@
+body{    font-family: 'Roboto Condensed', sans-serif;}
+.container{width: 1200px; margin: 0 auto;}
+
+li {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  a {
+    text-decoration: none;
+  }
+  nav {
+    text-align: right;
+  }
+  .half-part{width: 50%; float: left;}
+  .clear{clear: both;}
+  .projects{ padding: 50px 0 ;}
+  .single-project{width: 30%; padding: 10px; margin: 10px; float: left; background: #fff;border-radius: 10px;-webkit-box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 10px #000;}
+  img{width: 100%;}
+  .inquiry {
+    background: url(images/Group_33094_1.png) no-repeat;
+    background-size: cover;
+    height:298px;
+  }
+  .quiry-title.half-part {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    margin-top:72px;
+  }
+    .btn{ background: orchid; padding: 7px 15px;}
+    .inquiry-in {
+        text-align: center;
+        padding: 50px;
+
+    }
+    
+.work-btn.btn {
+    display: inline-block;
+    margin-top: 80px;
+}
+footer{text-align: center; font-size: 20px; margin: 20px;}
+span{color:purple;}
+.p-title {
+    text-align: center;
+}
